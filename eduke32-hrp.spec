@@ -7,6 +7,7 @@ Group:		Games/Arcade
 URL:		http://hrp.eduke4.net/
 Source0:	http://www.duke4.org/files/nightfright/beta/polymer_hrp132.zip
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
+BuildArch:	noarch
 Requires:	eduke32_engine >= 2.0.1
 
 %description
