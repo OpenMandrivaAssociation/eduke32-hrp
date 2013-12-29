@@ -1,6 +1,6 @@
 Name:		eduke32-hrp
 Version:	4.2.132
-Release:	%mkrel 1
+Release:	2
 License:	Freeware
 Summary:	Duke Nukem 3D High Resolution Pack
 Group:		Games/Arcade
