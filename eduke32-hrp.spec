@@ -11,10 +11,12 @@ BuildArch:	noarch
 Requires:	eduke32_engine >= 2.0.1
 
 %description
-For all Duke fans who want to play the game again in a modern Windows environment
-with 3D accelerated graphics, the Duke3D community has created the High Resolution
-Pack (HRP). Utilizing the amazing skills of various texturing and modelling artists,
-the project´s goal is to replace all textures and sprites with high-res versions,
+For all Duke fans who want to play the game again 
+in a modern Windows environment with 3D accelerated graphics,
+the Duke3D community has created the High Resolution
+Pack (HRP). Utilizing the amazing skills of various 
+texturing and modelling artists, the project´s goal is to 
+replace all textures and sprites with high-res versions,
 optimizing it for latest OpenGL ports.
 
 
