@@ -4,7 +4,7 @@ Release:	3
 License:	Freeware
 Summary:	Duke Nukem 3D High Resolution Pack
 Group:		Games/Arcade
-URL:		http://hrp.eduke4.net/
+URL:		https://hrp.eduke4.net/
 Source0:	http://www.duke4.org/files/nightfright/beta/polymer_hrp132.zip
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch:	noarch
